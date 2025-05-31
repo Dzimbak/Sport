@@ -6,4 +6,4 @@
 
     📫 Rugweta inobatika pa imeyiri inoti rugweta at rugweta.org.
 
-    🌱 Rugweta i tekinoloji yesungano inobatsira varimi nemabhizinesi.
+    🌱 Rugweta i tekinoloji yesungiriro inobatsira varimi nemabhizinesi.
